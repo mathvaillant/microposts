@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "title": "Post edited AGAIN",
+      "body": "This is post one EDITED VERSION",
+      "id": 1
+    },
+    {
+      "title": "Post Three UPDATED 3",
+      "body": "this is post three VERSION UPDATED\n",
+      "id": 3
+    },
+    {
+      "title": "Post random to edit",
+      "body": "THIS POST HAS BEEN ADDED",
+      "id": 4
+    }
+  ]
+}
